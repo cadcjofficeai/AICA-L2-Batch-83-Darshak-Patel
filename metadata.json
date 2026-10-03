@@ -1,6 +1,6 @@
 {
-  "name": "Audit Planning Workbench",
-  "description": "Statutory audit planning platform under ICAI Standards on Auditing (SA 315, SA 240, SA 330, SA 320) with risk matrix, materiality calculator, and Gemini AI assist.",
+  "name": "CA Invoice TDS & GST ITC Decision-Support System",
+  "description": "Professional decision-support tool for Chartered Accountants to analyze invoices for TDS applicability (Income-tax Act, 1961 vs 2025), GST ITC eligibility under Sections 16, 17, and 17(5), with client profile management, rule-first deterministic engine, and Excel & Word exports.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
