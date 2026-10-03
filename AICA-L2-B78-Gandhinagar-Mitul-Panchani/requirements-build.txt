@@ -1,2 +1,0 @@
-# Build-time only; runtime dependencies remain in requirements.txt.
-pyinstaller>=6.0

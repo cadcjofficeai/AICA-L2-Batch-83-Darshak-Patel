@@ -1,8 +1,0 @@
-
-
-
-
-cmd>streamlit run app.py
-
-Login : admin
-Password admin123
